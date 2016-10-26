@@ -1,0 +1,7 @@
+{
+
+    "agentid": "homeownerAgent1",
+    "message": "homeownerAgent1",
+    "destination-platform": "utility",    
+    "destination-vip": "tcp://192.168.10.205:29218"
+}
